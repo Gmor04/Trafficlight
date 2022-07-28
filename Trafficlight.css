@@ -1,0 +1,90 @@
+
+.mainn{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+.countter{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 3%;
+}
+.frame{
+    width: 130px;
+    height: 50vh;
+    border: 1px solid black;
+    border-radius: 20px 20px 0px 0px ;
+    background-color: grey;
+
+}
+.light1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: red;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.light2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: yellow;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.light3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: green;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.standdiv{
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.standd{
+    width: 28px;
+    height: 25vh;
+    border-radius: 0px 0px 10px 10px;
+    border: 1px solid black;
+    background-color: grey;
+    margin-left: 0px;
+
+}
+.standd1{
+    width: 28px;
+    height: 25vh;
+    border-radius: 0px 0px 10px 10px;
+    border: 1px solid black;
+    margin-left: 75px;
+    background-color: grey;
+    
+
+}
+.myname{
+    text-align: center;
+    color: blue;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 8%;
+}
